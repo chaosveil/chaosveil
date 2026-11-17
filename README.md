@@ -5,40 +5,36 @@
 
 <p align="center"> <img width="400" src="https://github.com/chaosveil/chaosveil/blob/258adc6ffb0142e273591e85ebcdda19e24d0b9f/archive/hello.png" alt="meow">
 
-</div>
+<p align="center"> </div>
 
-<table>
-<tr>
-<td width="40%" align="center">
+<p align="center"> <table>
+<p align="center"> <tr>
+<p align="center"> <td width="40%" align="center">
 
-<img src="URL-DE-TU-PERSONAJE" width="250">
+<p align="center"> <img width="400" src="https://github.com/chaosveil/chaosveil/blob/258adc6ffb0142e273591e85ebcdda19e24d0b9f/archive/hello.png" alt="meow">
 
 </td>
 <td width="60%" align="center">
 
-୨୧ ─────────────── ୨୧
+<p align="center"> ୨୧ ─────────────── ୨୧
 
-**YOUR NAME / YOUR USERNAME**
+<p align="center"> **YOUR NAME / YOUR USERNAME**
 
-they / them · infp · 21
+<p align="center"> they / them · infp · 21
 
-♡ marvel · wanda maximoff
+<p align="center"> ♡ marvel · wanda maximoff
 
-♡ music · films · books
+<p align="center"> ♡ music · films · books
 
-୨୧ ─────────────── ୨୧
+<p align="center"> ୨୧ ─────────────── ୨୧
 
-**currently listening to**
+<p align="center"> </td>
+<p align="center"> </tr>
+<p align="center"> </table>
 
-[Spotify](URL-DE-SPOTIFY)
+<p align="center">
 
-</td>
-</tr>
-</table>
 
-<div align="center">
-
-♡ made with love ♡
 
 </div>
 
